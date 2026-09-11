@@ -1,6 +1,6 @@
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=500&color=feff30&center=true&width=435&lines=Together!;Forever!"> </p>
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=500&color=307fce&center=true&width=435&lines=Is+It...;Over...?"> </p>
 
-<p align="center"> <img src=Untitled2_20260701172417.png> </p>
+<p align="center"> <img src=Untitled15_20260911083218.png> </p>
 
 <div align="center">
 
