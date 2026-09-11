@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=500&color=307fce&center=true&width=435&lines=Is+It...;Over...?"> </p>
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu+Mono&pause=500&color=307fce&center=true&width=435&lines=Is+It...;Over...?"> </p>
 
 <p align="center"> <img src=Untitled15_20260911083218.png> </p>
 
